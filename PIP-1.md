@@ -2,12 +2,12 @@
 
 ## Motivation
 
-Point chain intended to have several ecosystem layer applications. Those application can reuse similar components. It can reduce amount of work and make applications better connected with each other.
+Point Chain intends to have several ecosystem layer applications. Those applications can reuse similar components. Reusing these components can reduce the amount of work and make applications better connected with each other.
 
 
 ## Details
 
-There are 5 types of reusable components on Point network
+There are 5 types of reusable components on Point Network
 
 * Development tools 
 * Smart contracts
