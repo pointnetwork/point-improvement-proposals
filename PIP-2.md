@@ -169,6 +169,8 @@ The notifications are sourced from several arrays, so when combined, they should
 
 The engine keeps track of read and unread notifications in its database. If a user then changes devices, the engine will not have this information, and should assume all notifications up until this point to be considered as read.
 
+Later, when we implement syncing settings over Arweave, it would be part of the settings json file that will be synced with other clients.
+
 ## Other questions
 
 ### Notifications contract ownership
