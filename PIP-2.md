@@ -1,6 +1,10 @@
 # PIP-2 Point Notifications
 
-## Status: WIP, very rough draft
+## Status
+
+WIP, very rough draft
+
+Pull request: https://github.com/pointnetwork/point-improvement-proposals/pull/3
 
 ## Motivation
 
